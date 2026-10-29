@@ -35,8 +35,7 @@ checks, not advice.
 ## ✨ What it does
 
 - 🔎 **Search every site at once** – enter make, model, budget and postcode once. The app builds
-  the search on AutoTrader, Gumtree, eBay, PistonHeads, DoneDeal and more, and opens it in your
-  browser.
+  the search on the big UK car sites, marketplaces and more, and opens it in your browser.
 - 🚗 **Your garage** – keep every car you are looking at, from an advert link or typed in, and
   move it on as you go.
 - 🚩 **Spot a bad deal** – see the price against similar cars you saved, red flags such as too
@@ -61,7 +60,7 @@ checks, not advice.
 | Buying | Price against similar saved cars, red flags (too cheap, odd mileage, used electric car), asking-price history, free GOV.UK checks (MOT history, tax, recalls), checklists for before paying and collection day |
 | Owning | MOT, tax, insurance and service dates (first MOT at 3 years, 4 in Northern Ireland), calendar reminders, logbook, PCP mileage pace, dealer-rights dates |
 | Selling | Offers side by side, a safe-selling list, the DVLA steps, a service history to paste into an advert, the true cost of owning once sold |
-| Search sites | AutoTrader, Gumtree, Facebook Marketplace, eBay, UsedCarsNI, DoneDeal, PistonHeads, online stores, dealer groups, new-car deal sites, plus your own. Northern Ireland sites come first for BT postcodes |
+| Search sites | The main UK and Northern Ireland car classifieds, marketplaces and auction sites, online stores, dealer groups, new-car deal sites, plus your own. Northern Ireland sites come first for BT postcodes |
 
 </details>
 
@@ -96,7 +95,7 @@ and, under the newest release, pick the file for your device:
 
 | Your device | File to download | Works on |
 | --- | --- | --- |
-| 🐧 Linux computer | `Vahana-<version>-linux-x64.tar.gz` | Ubuntu 24.04, Fedora, Arch and similar (Intel/AMD 64-bit) |
+| 🐧 Linux computer | `Vahana-<version>-linux-x64.tar.gz` | Ubuntu 24.04, Fedora, Arch and similar (64-bit x86) |
 | 🪟 Windows computer | `Vahana-<version>-windows-x64-setup.exe` | Windows 10 and 11 |
 | 🤖 Android phone | `Vahana-<version>-android.apk` | Android 7 and newer |
 
@@ -138,7 +137,7 @@ Prefer no installer? Download `…-windows-x64-portable.zip`, unzip it anywhere 
 
 1. Open the downloaded `.apk` on your phone.
 2. If Android asks, allow installs from your browser or file manager. This is normal for apps
-   from outside the Play Store.
+   from outside an app store.
 3. Tap **Install**, then **Open**.
 
 Newer versions install over the top and keep your data.
